@@ -1,0 +1,4 @@
+models/
+data/
+*.npy
+*.ipynb
